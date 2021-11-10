@@ -1,0 +1,7 @@
+.idea/
+.settings/
+.DS_Store
+.project
+vendor
+composer.lock
+h5
